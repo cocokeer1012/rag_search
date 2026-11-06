@@ -14,3 +14,7 @@ case_index/
 
 # 截图
 .screenshots/
+
+# 本地方案文档与脚本（不上传）
+问题+解决方案.md
+*.bat
