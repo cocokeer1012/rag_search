@@ -1,0 +1,16 @@
+# 密钥与敏感配置
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# 索引数据（体积大，可重建）
+case_index/
+
+# 截图
+.screenshots/
